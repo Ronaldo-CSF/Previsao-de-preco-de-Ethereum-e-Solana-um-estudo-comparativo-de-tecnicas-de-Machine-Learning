@@ -1,0 +1,27 @@
+# Essenciais
+numpy
+pandas
+matplotlib
+seaborn
+ipykernel
+
+# Machine Learning
+scikit-learn
+tensorflow
+
+# Deep Learning com GPU
+torch
+torchvision
+torchaudio
+
+# Séries temporais
+statsmodels
+
+# Avaliação de modelo
+scipy
+
+# Tipo de Arquivo
+fastparquet
+pyarrow
+
+# pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu126

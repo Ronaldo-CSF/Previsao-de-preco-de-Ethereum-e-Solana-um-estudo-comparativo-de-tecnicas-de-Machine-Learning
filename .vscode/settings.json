@@ -1,0 +1,56 @@
+{
+    "workbench.colorTheme": "Dracula Theme",
+    "workbench.iconTheme":"vscode-icons",                  
+    "explorer.compactFolders": false,
+    "code-runner.runInTerminal": true,
+    "code-runner.executorMap": {
+        "javascript": "node",
+        "python": "clear ; python -u",
+        "julia": "julia",
+        "r": "Rscript"
+    },
+    "debugging experience":true,
+
+    "editor.mouseWheelZoom": true,
+
+    //para usar o python do sistema mudar a chave abaixo para python3
+    // "python.defaultInterpreterPath": "C:\\Users\\rofil\\Documents\\MBA-USP_ESALQ\\01_Meu_Projeto\\00_Codigo\\venv\\Scripts\\python",
+    "window.zoomLevel": 1,
+    "explorer.confirmDelete": false,
+    "editor.rulers": [80,120],                      // regua
+
+    //visando parar de dar erro em libs apenas do venv
+    "python.autoComplete.extraPaths": [
+       "C:\\Users\\rofil\\Documents\\MBA-USP_ESALQ\\01_Meu_Projeto\\00_Codigo\\venv\\Lib\\site-packages"],
+
+    //Importar biblioteca quando mencionada no código
+    "python.analysis.autoImportCompletions": true,
+    
+
+    "python.languageServer": "Pylance",
+
+    "python.formatting.autopep8Args": [
+        "--indent-size=4",
+        "--max-line-length=80"
+        // "--ignore=E111"
+  ],
+  "python.linting.flake8Args": [
+    // "--ignore=E111",
+  ],
+  "python.linting.flake8Enabled": true,
+
+  "python.analysis.typeCheckingMode": "basic",
+  "cSpell.enabled": true,
+
+  "[csv][dynamic csv][tsv][csv (semicolon)]": {
+    "editor.stickyScroll.enabled": true 
+    },
+
+"liveServer.settings.donotShowInfoMsg": true,
+//"python.analysis.extraPaths": [
+//    "/home/ronaldocsf/Documentos/Projetos/Python/Python3_u"
+//]
+    "python.analysis.extraPaths": ["./sources"]
+
+    
+}
