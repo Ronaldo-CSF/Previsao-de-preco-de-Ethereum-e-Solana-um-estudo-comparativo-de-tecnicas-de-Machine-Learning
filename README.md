@@ -49,15 +49,15 @@ A metodologia adotada inclui as seguintes etapas:
 
 ## 📚 Autor
 
-Ronaldo do Couto S. Filho
-📍 Pós-Graduação em Data Science e Analytics
-💻 Engenheiro Químico e entusiasta de Ciência de Dados
+Ronaldo do Couto S. Filho  
+📍 Pós-Graduação em Data Science e Analytics  
+💻 Engenheiro Químico e entusiasta de Ciência de Dados  
 🔗 [adicione seu LinkedIn aqui](https://www.linkedin.com/in/ronaldo-do-couto/)
 
 
 ## 📜 Licença
 
-Este projeto é de caráter acadêmico e foi desenvolvido para fins educacionais.
+Este projeto é de caráter acadêmico e foi desenvolvido para fins educacionais.  
 O código pode ser reutilizado e adaptado, desde que seja citada a fonte original.
 
 ---
