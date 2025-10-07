@@ -52,7 +52,7 @@ A metodologia adotada inclui as seguintes etapas:
 Ronaldo do Couto S. Filho  
 📍 Pós-Graduação em Data Science e Analytics  
 💻 Engenheiro Químico e entusiasta de Ciência de Dados  
-🔗 [adicione seu LinkedIn aqui](https://www.linkedin.com/in/ronaldo-do-couto/)
+🔗 [Ronaldo do Couto](https://www.linkedin.com/in/ronaldo-do-couto/)
 
 
 ## 📜 Licença
